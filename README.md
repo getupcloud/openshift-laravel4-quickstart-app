@@ -9,6 +9,6 @@ Usando o comando rhc, execute:
 rhc app create laravel php-5.4 mysql-5.5 --from-code git://github.com/caruccio/openshift-laravel4-quickstart-app.git
 ```
 
-Se preferir, crie sua aplicação Laravel a partir do [Instant App do dashboard](https://broker.getupcloud.com/console/application_types/quickstart!10)
+Se preferir, crie sua aplicação Laravel a partir do [Instant App do dashboard](https://broker.getupcloud.com/console/application_types/quickstart!laravel)
 
 Após a criação, acesse seu app em http://laravel-[namespace].getup.io
